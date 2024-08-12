@@ -1,0 +1,2 @@
+# NvidiaCaptureAudioTrackAutoMerge
+N卡捕获音轨自动合并，处理Nvidia显卡捕获功能中双音轨独立录制的视频/即时重放，使用ffmpeg将麦克风音轨和媒体音轨合并的bat脚本文件，本仓库仅作个人备份用
